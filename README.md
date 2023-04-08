@@ -12,9 +12,7 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jekipung&show_icons=true&theme=solarized-light)
-  
-  <img src="http://mazandi.herokuapp.com/api?handle=Jekipung&theme=Dark"/>
-  
+
 </div>
 
 
