@@ -4,7 +4,7 @@
 
 <p>
   
-<a href="https://www.youtube.com/@Jekipung_07" target="_blank"><img src="https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logocolor=red"/></a>
+<a href="https://www.youtube.com/@Jekipung07" target="_blank"><img src="https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logocolor=red"/></a>
 <a href="https://twitter.com/Jekipung" target="_blank"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logocolor=blue"/></a>
 <a href="https://www.roblox.com/users/877344635/profile" target="_blank"><img src="https://img.shields.io/badge/-Roblox-lightgrey?style=flat-square&logo=roblox&logocolor=White"/></a>
 <a href="https://www.twitch.tv/jekipung" target="_blank"><img src="https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=twitch&logocolor=blueviolet"/></a>
