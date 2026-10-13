@@ -1,3 +1,5 @@
+<div align="center">
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=AC9DD5&height=220&section=header&text=NEMOmeovv&fontColor=F0DFED&fontSize=72&fontAlignY=38&desc=Developer%20%7C%20Creator%20%7C%20Always%20Learning&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="NEMOmeovv header" />
 
   <p>
