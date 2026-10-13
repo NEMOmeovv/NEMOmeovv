@@ -1,37 +1,50 @@
-<div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=AC9DD5&height=150&section=header&text=NEMOmeovv&fontColor=F0DFED&fontSize=70&animation=fadeIn&fontAlignY=55)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=AC9DD5&height=220&section=header&text=NEMOmeovv&fontColor=F0DFED&fontSize=72&fontAlignY=38&desc=Developer%20%7C%20Creator%20%7C%20Always%20Learning&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="NEMOmeovv header" />
 
-<p>
-  
-<a href="https://www.youtube.com/@NEMOmeovv" target="_blank"><img src="https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logocolor=red"/></a>
-<a href="https://x.com/NEMOmeovv_" target="_blank"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logocolor=blue"/></a>
+  <p>
+    <a href="https://www.youtube.com/@NEMOmeovv" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    </a>
+    <a href="https://x.com/NEMOmeovv_" target="_blank">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    </a>
+  </p>
 
-</p>
+  <h3>안녕하세요, NEMOmeovv입니다 👋</h3>
+  <p>새로운 것을 배우고, 만들고, 공유하는 개발자입니다.</p>
 
 </div>
 
-## About
+---
 
-- 웹과 인터랙션을 좋아합니다.
-- 가독성과 유지보수성을 중요하게 생각합니다.
-- 작은 프로젝트부터 실서비스까지 경험을 쌓고 있습니다.
-- 코드와 기록을 통해 계속 성장하고 있습니다.
+## 🧭 About Me
 
-## Stack
+- 💡 아이디어를 실제 결과물로 만드는 과정을 좋아합니다.
+- 🌱 꾸준히 배우며 더 나은 코드를 고민하고 있습니다.
+- 🎨 개발과 콘텐츠를 통해 즐거운 경험을 만들고 있습니다.
+- 📫 아래 채널에서 함께 이야기해요!
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,vscode" alt="Tech stack" />
+
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,vscode&perline=9" alt="Tech stack" />
+
 </div>
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NEMOmeovv&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NEMOmeovv&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEMOmeovv&layout=compact&theme=midnight-purple&hide_border=true" alt="Top languages" />
 </div>
 
-## Contribution Graph
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NEMOmeovv&theme=midnight-purple&hide_border=true" alt="GitHub streak" />
+</div>
+
+## 🐍 Contribution Graph
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/NEMOmeovv/NEMOmeovv/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
@@ -40,5 +53,5 @@
 ---
 
 <div align="center">
-  <p>Building something useful.</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=AC9DD5&height=100&section=footer" width="100%" alt="Footer" />
 </div>
